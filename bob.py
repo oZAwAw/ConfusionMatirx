@@ -58,7 +58,7 @@ M=ConfusionMatrix(task="multiclass", num_classes=3)
 print(M(to_return_preds, to_return_tru))
 
 
-# creating a GUI
+# creating a GUI.
 
 
 
